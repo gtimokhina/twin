@@ -1,0 +1,21 @@
+{
+    "full_name": "Gulnara Timokhina",
+    "name": "Gulya",
+    "current_role": "AI Software Engineer",
+    "location": "Bay Area, CA",
+    "email": "gtimokhina@gmail.com",
+    "linkedin": "linkedin.com/in/gtimokhina",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "MS in Software Engineering, concentration data Science",
+        "institution": "San Jose State University",
+        "year": "2021"
+      }
+    ]
+  }
