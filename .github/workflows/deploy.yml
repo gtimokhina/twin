@@ -1,4 +1,4 @@
-ame: Deploy Digital Twin
+name: Deploy Digital Twin
 
 on:
   push:
